@@ -1,0 +1,394 @@
+[
+  {
+    "id": "02814",
+    "name": "attexis - die digitale Therapie bei ADHS im Erwachsenenalter",
+    "url": "https://attexis.de/",
+    "logo": "/diga-logos/attexis-die-digitale-therapie-bei-adhs-im-erwachsenenalter.png",
+    "manufacturer": "GAIA AG",
+    "category": "Psyche"
+  },
+  {
+    "id": "01346",
+    "name": "Cara Care für Reizdarm",
+    "url": "https://www.cara.care/de",
+    "logo": "/diga-logos/cara-care-fuer-reizdarm.png",
+    "manufacturer": "HiDoc Technologies GmbH",
+    "category": "Verdauung"
+  },
+  {
+    "id": "00998",
+    "name": "companion patella powered by medi - proved by Dt. Kniegesellschaft",
+    "url": "https://www.medi.de/digitale-anwendungen/diga-companion-patella/",
+    "logo": "/diga-logos/companion-patella-powered-by-medi-proved-by-dt-kniegesellschaft.png",
+    "manufacturer": "PrehApp GmbH",
+    "category": "Verletzungen"
+  },
+  {
+    "id": "00450",
+    "name": "deprexis",
+    "url": "https://de.deprexis.com/",
+    "logo": "/diga-logos/deprexis.png",
+    "manufacturer": "GAIA AG",
+    "category": "Psyche"
+  },
+  {
+    "id": "01815",
+    "name": "edupression.com®",
+    "url": "https://edupression.com/",
+    "logo": "/diga-logos/edupressioncom.png",
+    "manufacturer": "SOFY GmbH",
+    "category": "Psyche"
+  },
+  {
+    "id": "00419",
+    "name": "elevida",
+    "url": "https://elevida.de/",
+    "logo": "/diga-logos/elevida.png",
+    "manufacturer": "GAIA AG",
+    "category": "Nervensystem"
+  },
+  {
+    "id": "01254",
+    "name": "elona therapy Depression",
+    "url": "https://www.elona.health/elona-therapy-patienten",
+    "logo": "/diga-logos/elona-therapy-depression.png",
+    "manufacturer": "Elona Health GmbH",
+    "category": "Psyche"
+  },
+  {
+    "id": "01734",
+    "name": "Endo-App",
+    "url": "https://diga.endometriose.app/",
+    "logo": "/diga-logos/endo-app.png",
+    "manufacturer": "Endo Health GmbH",
+    "category": "Geschlechtsorgane, Nieren und Harnwege"
+  },
+  {
+    "id": "02090",
+    "name": "glucura Diabetestherapie",
+    "url": "https://www.glucura.de",
+    "logo": "/diga-logos/glucura-diabetestherapie.png",
+    "manufacturer": "Perfood GmbH",
+    "category": "Hormone und Stoffwechsel"
+  },
+  {
+    "id": "01304",
+    "name": "HelloBetter Chronische Schmerzen",
+    "url": "https://hellobetter.de/online-kurse/chronische-schmerzen/",
+    "logo": "/diga-logos/hellobetter-chronische-schmerzen.png",
+    "manufacturer": "GET.ON Institut für Online Gesundheitstrainings GmbH",
+    "category": "Psyche"
+  },
+  {
+    "id": "01376",
+    "name": "HelloBetter Diabetes",
+    "url": "https://hellobetter.de/online-kurse/diabetes/",
+    "logo": "/diga-logos/hellobetter-diabetes.png",
+    "manufacturer": "GET.ON Institut für Online Gesundheitstrainings GmbH",
+    "category": "Hormone und Stoffwechsel"
+  },
+  {
+    "id": "01513",
+    "name": "HelloBetter Panik",
+    "url": "https://hellobetter.de/online-kurse/panik/",
+    "logo": "/diga-logos/hellobetter-panik.png",
+    "manufacturer": "GET.ON Institut für Online Gesundheitstrainings GmbH",
+    "category": "Psyche"
+  },
+  {
+    "id": "01772",
+    "name": "HelloBetter Schlafen",
+    "url": "https://hellobetter.de/online-kurse/schlafen/",
+    "logo": "/diga-logos/hellobetter-schlafen.png",
+    "manufacturer": "GET.ON Institut für Online Gesundheitstrainings GmbH",
+    "category": "Nervensystem"
+  },
+  {
+    "id": "00965",
+    "name": "HelloBetter Stress und Burnout",
+    "url": "https://hellobetter.de/online-trainings/burnout-stress/",
+    "logo": "/diga-logos/hellobetter-stress-und-burnout.png",
+    "manufacturer": "GET.ON Institut für Online Gesundheitstrainings GmbH",
+    "category": "Sonstige"
+  },
+  {
+    "id": "01497",
+    "name": "HelloBetter Vaginismus Plus",
+    "url": "https://hellobetter.de/online-kurse/vaginismus-plus/",
+    "logo": "/diga-logos/hellobetter-vaginismus-plus.png",
+    "manufacturer": "GET.ON Institut für Online Gesundheitstrainings GmbH",
+    "category": "Psyche"
+  },
+  {
+    "id": "00300",
+    "name": "Invirto - Die Therapie gegen Angst",
+    "url": "https://www.invirto.de",
+    "logo": "/diga-logos/invirto-die-therapie-gegen-angst.png",
+    "manufacturer": "Sympatient GmbH",
+    "category": "Psyche"
+  },
+  {
+    "id": "01330",
+    "name": "Kaia Rückenschmerzen - Rückentraining für Zuhause",
+    "url": "https://www.kaiahealth.de/rueckenschmerzen/",
+    "logo": "/diga-logos/kaia-rueckenschmerzen-rueckentraining-fuer-zuhause.png",
+    "manufacturer": "kaia health software GmbH",
+    "category": "Muskeln, Knochen und Gelenke"
+  },
+  {
+    "id": "00350",
+    "name": "Kalmeda",
+    "url": "https://www.kalmeda.de",
+    "logo": "/diga-logos/kalmeda.png",
+    "manufacturer": "Pohl-Boskamp Digital Health GmbH",
+    "category": "Ohren"
+  },
+  {
+    "id": "01282",
+    "name": "Kranus Edera",
+    "url": "https://www.kranushealth.com",
+    "logo": "/diga-logos/kranus-edera.png",
+    "manufacturer": "Kranus Health GmbH",
+    "category": "Geschlechtsorgane, Nieren und Harnwege"
+  },
+  {
+    "id": "01644",
+    "name": "Kranus Lutera",
+    "url": "https://www.kranushealth.com/de/",
+    "logo": "/diga-logos/kranus-lutera.png",
+    "manufacturer": "Kranus Health GmbH",
+    "category": "Geschlechtsorgane, Nieren und Harnwege"
+  },
+  {
+    "id": "02815",
+    "name": "Kranus Mictera",
+    "url": "https://www.kranushealth.com/de/therapien/inkontinenz",
+    "logo": "/diga-logos/kranus-mictera.png",
+    "manufacturer": "Kranus Health GmbH",
+    "category": "Geschlechtsorgane, Nieren und Harnwege"
+  },
+  {
+    "id": "00752",
+    "name": "levidex",
+    "url": "https://levidex.de/",
+    "logo": "/diga-logos/levidex.png",
+    "manufacturer": "GAIA AG",
+    "category": "Nervensystem"
+  },
+  {
+    "id": "00993",
+    "name": "Mawendo",
+    "url": "https://mawendo.com/",
+    "logo": "/diga-logos/mawendo.png",
+    "manufacturer": "Mawendo GmbH",
+    "category": "Muskeln, Knochen und Gelenke"
+  },
+  {
+    "id": "01496",
+    "name": "Meine Tinnitus App - Das digitale Tinnitus Counseling",
+    "url": "https://www.meinetinnitusapp.de",
+    "logo": "/diga-logos/meine-tinnitus-app-das-digitale-tinnitus-counseling.png",
+    "manufacturer": "BAYOOCARE GmbH",
+    "category": "Ohren"
+  },
+  {
+    "id": "00329",
+    "name": "Mindable: Panik & Agoraphobie",
+    "url": "https://www.mindable.health",
+    "logo": "/diga-logos/mindable-panik-agoraphobie.png",
+    "manufacturer": "Mindable Health GmbH",
+    "category": "Psyche"
+  },
+  {
+    "id": "01514",
+    "name": "Mindable: Soziale Phobie",
+    "url": "https://www.mindable.health/soziale-phobie",
+    "logo": "/diga-logos/mindable-soziale-phobie.png",
+    "manufacturer": "Mindable Health GmbH",
+    "category": "Psyche"
+  },
+  {
+    "id": "01786",
+    "name": "My7steps App",
+    "url": "https://diga.my7steps.org",
+    "logo": "/diga-logos/my7steps-app.png",
+    "manufacturer": "My7steps GmbH",
+    "category": "Psyche"
+  },
+  {
+    "id": "01196",
+    "name": "neolexon Aphasie",
+    "url": "https://neolexon.de/patienten/aphasie-app/",
+    "logo": "/diga-logos/neolexon-aphasie.png",
+    "manufacturer": "Limedix GmbH",
+    "category": "Sonstige"
+  },
+  {
+    "id": "01113",
+    "name": "NeuroNation MED",
+    "url": "https://neuronation-med.de/",
+    "logo": "/diga-logos/neuronation-med.png",
+    "manufacturer": "Synaptikon GmbH",
+    "category": "Psyche"
+  },
+  {
+    "id": "01085",
+    "name": "NichtraucherHelden-App",
+    "url": "https://www.nichtraucherhelden.de/medizinprogramm.jsf",
+    "logo": "/diga-logos/nichtraucherhelden-app.png",
+    "manufacturer": "Sanero Medical GmbH",
+    "category": "Psyche"
+  },
+  {
+    "id": "01820",
+    "name": "Novego: Ängste überwinden",
+    "url": "https://www.novego.de/novego-programme/hilfe-bei-aengsten/",
+    "logo": "/diga-logos/novego-aengste-ueberwinden.png",
+    "manufacturer": "IVPNetworks GmbH",
+    "category": "Psyche"
+  },
+  {
+    "id": "01110",
+    "name": "Novego: Depressionen bewältigen",
+    "url": "https://www.novego.de",
+    "logo": "/diga-logos/novego-depressionen-bewaeltigen.png",
+    "manufacturer": "IVPNetworks GmbH",
+    "category": "Psyche"
+  },
+  {
+    "id": "00872",
+    "name": "Oviva Direkt für Adipositas",
+    "url": "https://oviva.com/de/de/direkt/",
+    "logo": "/diga-logos/oviva-direkt-fuer-adipositas.png",
+    "manufacturer": "Oviva AG (Zweigniederlassung Deutschland)",
+    "category": "Hormone und Stoffwechsel"
+  },
+  {
+    "id": "01464",
+    "name": "PINK! Coach",
+    "url": "https://www.pink-brustkrebs.de/das-bietet-pink/lp-pink-coach",
+    "logo": "/diga-logos/pink-coach.png",
+    "manufacturer": "PINK gegen Brustkrebs GmbH",
+    "category": "Krebs"
+  },
+  {
+    "id": "01853",
+    "name": "priovi - digitale Unterstützung der Borderline-Behandlung",
+    "url": "https://priovi.de/",
+    "logo": "/diga-logos/priovi-digitale-unterstuetzung-der-borderline-behandlung.png",
+    "manufacturer": "GAIA AG",
+    "category": "Psyche"
+  },
+  {
+    "id": "01823",
+    "name": "ProHerz",
+    "url": "https://procarement.com/",
+    "logo": "/diga-logos/proherz.png",
+    "manufacturer": "ProCarement  GmbH",
+    "category": "Herz und Kreislauf"
+  },
+  {
+    "id": "01830",
+    "name": "Selfapys Online-Kurs bei Binge-Eating-Störung",
+    "url": "https://www.selfapy.com/kurse/binge-eating",
+    "logo": "/diga-logos/selfapys-online-kurs-bei-binge-eating-stoerung.png",
+    "manufacturer": "Selfapy GmbH",
+    "category": "Psyche"
+  },
+  {
+    "id": "01834",
+    "name": "Selfapys Online-Kurs bei Bulimia Nervosa",
+    "url": "https://www.selfapy.com/kurse/bulimie",
+    "logo": "/diga-logos/selfapys-online-kurs-bei-bulimia-nervosa.png",
+    "manufacturer": "Selfapy GmbH",
+    "category": "Psyche"
+  },
+  {
+    "id": "00876",
+    "name": "Selfapys Online-Kurs bei Depression",
+    "url": "https://www.selfapy.com/kurse/depression",
+    "logo": "/diga-logos/selfapys-online-kurs-bei-depression.png",
+    "manufacturer": "Selfapy GmbH",
+    "category": "Psyche"
+  },
+  {
+    "id": "01049",
+    "name": "Selfapys Online-Kurs bei Generalisierter Angststörung",
+    "url": "https://www.selfapy.com/kurse/generalisierte-angststoerung",
+    "logo": "/diga-logos/selfapys-online-kurs-bei-generalisierter-angststoerung.png",
+    "manufacturer": "Selfapy GmbH",
+    "category": "Psyche"
+  },
+  {
+    "id": "01909",
+    "name": "Smoke Free - Rauchen aufhören",
+    "url": "https://www.smokefree.de",
+    "logo": "/diga-logos/smoke-free-rauchen-aufhoeren.png",
+    "manufacturer": "Smoke Free 23 GmbH",
+    "category": "Psyche"
+  },
+  {
+    "id": "00508",
+    "name": "somnio",
+    "url": "https://www.somn.io",
+    "logo": "/diga-logos/somnio.png",
+    "manufacturer": "mementor DE GmbH",
+    "category": "Psyche"
+  },
+  {
+    "id": "02097",
+    "name": "somnovia",
+    "url": "https://somnovia.de/",
+    "logo": "/diga-logos/somnovia.png",
+    "manufacturer": "GAIA AG",
+    "category": "Nervensystem"
+  },
+  {
+    "id": "01967",
+    "name": "Untire®",
+    "url": "https://untire.app/de/",
+    "logo": "/diga-logos/untire.png",
+    "manufacturer": "Tired of Cancer B.V. ",
+    "category": "Krebs"
+  },
+  {
+    "id": "00316",
+    "name": "velibra",
+    "url": "https://de.velibra.com/",
+    "logo": "/diga-logos/velibra.png",
+    "manufacturer": "GAIA AG",
+    "category": "Psyche"
+  },
+  {
+    "id": "00746",
+    "name": "Vitadio",
+    "url": "https://vitadio.de",
+    "logo": "/diga-logos/vitadio.png",
+    "manufacturer": "Vitadio s.r.o.",
+    "category": "Hormone und Stoffwechsel"
+  },
+  {
+    "id": "00387",
+    "name": "Vivira",
+    "url": "https://www.vivira.com",
+    "logo": "/diga-logos/vivira.png",
+    "manufacturer": "Vivira Health Lab GmbH",
+    "category": "Muskeln, Knochen und Gelenke"
+  },
+  {
+    "id": "00868",
+    "name": "vorvida",
+    "url": "https://vorvida.de/",
+    "logo": "/diga-logos/vorvida.png",
+    "manufacturer": "GAIA AG",
+    "category": "Psyche"
+  },
+  {
+    "id": "00294",
+    "name": "zanadio",
+    "url": "https://zanadio.de/",
+    "logo": "/diga-logos/zanadio.png",
+    "manufacturer": "Sidekick Health Germany GmbH",
+    "category": "Hormone und Stoffwechsel"
+  }
+]
