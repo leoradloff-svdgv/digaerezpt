@@ -8,6 +8,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
+  icons: {
+    icon: "/svdgv-icon-petrol.svg",
+  },
   title: "DiGA e-Rezept einlösen | Spitzenverband Digitale Gesundheitsversorgung",
   description:
     "Lösen Sie Ihr e-Rezept für eine Digitale Gesundheitsanwendung (DiGA) ein. Wählen Sie Ihre DiGA und werden Sie direkt weitergeleitet.",
