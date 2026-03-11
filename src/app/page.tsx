@@ -26,7 +26,18 @@ export default function Home() {
       <DiGASearch digas={digas} />
 
       <footer className="absolute bottom-0 w-full py-4 text-center text-xs text-gray-400">
-        <p>Spitzenverband Digitale Gesundheitsversorgung e.V.</p>
+        <p>
+          Spitzenverband Digitale Gesundheitsversorgung e.V.
+          <span className="mx-1.5">·</span>
+          <a
+            href="https://www.digitalversorgt.de/rechtliches/impressum"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline hover:text-gray-600 transition-colors"
+          >
+            Impressum
+          </a>
+        </p>
       </footer>
     </main>
   );
