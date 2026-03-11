@@ -6,7 +6,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <>
-      <main className="flex min-h-screen flex-col items-center justify-center px-4">
+      <main className="flex min-h-[85vh] flex-col items-center justify-center px-4">
         <div className="flex flex-col items-center mb-8">
           <Image
             src="/svdgv-icon-petrol.svg"
