@@ -26,26 +26,32 @@ export default function Home() {
 
       <section className="px-4 pb-16">
         <div className="mx-auto grid w-full max-w-4xl grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4">
-          {digas.map((diga) => (
-            <a
-              key={diga.id}
-              href={diga.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex flex-col items-center gap-2 rounded-xl border border-gray-100 bg-white p-4 text-center transition-shadow hover:shadow-md"
-            >
-              <Image
-                src={diga.logo}
-                alt=""
-                width={48}
-                height={48}
-                className="rounded-lg"
-              />
-              <span className="text-xs font-medium text-gray-700 line-clamp-2">
-                {diga.name}
-              </span>
-            </a>
-          ))}
+          {digas.map((diga) => {
+            const Wrapper = diga.url ? "a" : "div";
+            const linkProps = diga.url
+              ? { href: diga.url, target: "_blank" as const, rel: "noopener noreferrer" }
+              : {};
+            return (
+              <Wrapper
+                key={diga.id}
+                {...linkProps}
+                className={`flex flex-col items-center gap-2 rounded-xl border border-gray-100 bg-white p-4 text-center transition-shadow ${
+                  diga.url ? "hover:shadow-md" : "opacity-60 cursor-default"
+                }`}
+              >
+                <Image
+                  src={diga.logo}
+                  alt=""
+                  width={48}
+                  height={48}
+                  className="rounded-lg"
+                />
+                <span className="text-xs font-medium text-gray-700 line-clamp-2">
+                  {diga.name}
+                </span>
+              </Wrapper>
+            );
+          })}
         </div>
 
         <footer className="mt-16 w-full text-center text-xs text-gray-400">

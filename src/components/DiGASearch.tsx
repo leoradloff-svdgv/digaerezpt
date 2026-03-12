@@ -36,7 +36,7 @@ export function DiGASearch({ digas }: DiGASearchProps) {
   }, [query, digas]);
 
   const handleSelect = useCallback((diga: DiGA) => {
-    window.location.href = diga.url;
+    if (diga.url) window.location.href = diga.url;
   }, []);
 
   const handleKeyDown = useCallback(

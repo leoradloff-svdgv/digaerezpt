@@ -1,80 +1,32 @@
 [
   {
-    "id": "02814",
-    "name": "attexis - die digitale Therapie bei ADHS im Erwachsenenalter",
-    "url": "https://attexis.de/",
-    "logo": "/diga-logos/attexis-die-digitale-therapie-bei-adhs-im-erwachsenenalter.png",
-    "manufacturer": "GAIA AG",
-    "category": "Psyche"
+    "id": "02856",
+    "name": "Axia - für axiale Spondyloarthritis (axSpA)",
+    "url": "https://rezept.axia-app.de/",
+    "logo": "/diga-logos/axia-fuer-axiale-spondyloarthritis-axspa.png",
+    "manufacturer": "Applimeda GmbH",
+    "category": "Muskeln, Knochen und Gelenke"
   },
   {
     "id": "01346",
     "name": "Cara Care für Reizdarm",
-    "url": "https://www.cara.care/de",
+    "url": "https://survey.cara.care/to/bpuzKchE",
     "logo": "/diga-logos/cara-care-fuer-reizdarm.png",
     "manufacturer": "HiDoc Technologies GmbH",
     "category": "Verdauung"
   },
   {
-    "id": "00998",
-    "name": "companion patella powered by medi - proved by Dt. Kniegesellschaft",
-    "url": "https://www.medi.de/digitale-anwendungen/diga-companion-patella/",
-    "logo": "/diga-logos/companion-patella-powered-by-medi-proved-by-dt-kniegesellschaft.png",
-    "manufacturer": "PrehApp GmbH",
-    "category": "Verletzungen"
-  },
-  {
-    "id": "00450",
-    "name": "deprexis",
-    "url": "https://de.deprexis.com/",
-    "logo": "/diga-logos/deprexis.png",
-    "manufacturer": "GAIA AG",
-    "category": "Psyche"
-  },
-  {
-    "id": "01815",
-    "name": "edupression.com®",
-    "url": "https://edupression.com/",
-    "logo": "/diga-logos/edupressioncom.png",
-    "manufacturer": "SOFY GmbH",
-    "category": "Psyche"
-  },
-  {
-    "id": "00419",
-    "name": "elevida",
-    "url": "https://elevida.de/",
-    "logo": "/diga-logos/elevida.png",
-    "manufacturer": "GAIA AG",
-    "category": "Nervensystem"
-  },
-  {
-    "id": "01254",
-    "name": "elona therapy Depression",
-    "url": "https://www.elona.health/elona-therapy-patienten",
-    "logo": "/diga-logos/elona-therapy-depression.png",
-    "manufacturer": "Elona Health GmbH",
-    "category": "Psyche"
-  },
-  {
     "id": "01734",
     "name": "Endo-App",
-    "url": "https://diga.endometriose.app/",
+    "url": "https://endometriose.app/",
     "logo": "/diga-logos/endo-app.png",
     "manufacturer": "Endo Health GmbH",
     "category": "Geschlechtsorgane, Nieren und Harnwege"
   },
   {
-    "id": "02090",
-    "name": "glucura Diabetestherapie",
-    "url": "https://www.glucura.de",
-    "logo": "/diga-logos/glucura-diabetestherapie.png",
-    "manufacturer": "Perfood GmbH",
-    "category": "Hormone und Stoffwechsel"
-  },
-  {
     "id": "01304",
     "name": "HelloBetter Chronische Schmerzen",
-    "url": "https://hellobetter.de/online-kurse/chronische-schmerzen/",
+    "url": "https://hellobetter.de/rezept/service/15/",
     "logo": "/diga-logos/hellobetter-chronische-schmerzen.png",
     "manufacturer": "GET.ON Institut für Online Gesundheitstrainings GmbH",
     "category": "Psyche"
@@ -82,7 +34,7 @@
   {
     "id": "01376",
     "name": "HelloBetter Diabetes",
-    "url": "https://hellobetter.de/online-kurse/diabetes/",
+    "url": "https://hellobetter.de/rezept/service/15/",
     "logo": "/diga-logos/hellobetter-diabetes.png",
     "manufacturer": "GET.ON Institut für Online Gesundheitstrainings GmbH",
     "category": "Hormone und Stoffwechsel"
@@ -90,7 +42,7 @@
   {
     "id": "01513",
     "name": "HelloBetter Panik",
-    "url": "https://hellobetter.de/online-kurse/panik/",
+    "url": "https://hellobetter.de/rezept/service/15/",
     "logo": "/diga-logos/hellobetter-panik.png",
     "manufacturer": "GET.ON Institut für Online Gesundheitstrainings GmbH",
     "category": "Psyche"
@@ -98,7 +50,7 @@
   {
     "id": "01772",
     "name": "HelloBetter Schlafen",
-    "url": "https://hellobetter.de/online-kurse/schlafen/",
+    "url": "https://hellobetter.de/rezept/service/15/",
     "logo": "/diga-logos/hellobetter-schlafen.png",
     "manufacturer": "GET.ON Institut für Online Gesundheitstrainings GmbH",
     "category": "Nervensystem"
@@ -106,7 +58,7 @@
   {
     "id": "00965",
     "name": "HelloBetter Stress und Burnout",
-    "url": "https://hellobetter.de/online-trainings/burnout-stress/",
+    "url": "https://hellobetter.de/rezept/service/15/",
     "logo": "/diga-logos/hellobetter-stress-und-burnout.png",
     "manufacturer": "GET.ON Institut für Online Gesundheitstrainings GmbH",
     "category": "Sonstige"
@@ -114,15 +66,23 @@
   {
     "id": "01497",
     "name": "HelloBetter Vaginismus Plus",
-    "url": "https://hellobetter.de/online-kurse/vaginismus-plus/",
+    "url": "https://hellobetter.de/rezept/service/15/",
     "logo": "/diga-logos/hellobetter-vaginismus-plus.png",
     "manufacturer": "GET.ON Institut für Online Gesundheitstrainings GmbH",
     "category": "Psyche"
   },
   {
+    "id": "02906",
+    "name": "INKA",
+    "url": "https://rezept.meine-inka.de/",
+    "logo": "/diga-logos/inka.jpg",
+    "manufacturer": "NEXTEC Medical GmbH",
+    "category": "Geschlechtsorgane, Nieren und Harnwege"
+  },
+  {
     "id": "00300",
     "name": "Invirto - Die Therapie gegen Angst",
-    "url": "https://www.invirto.de",
+    "url": "https://invirto.de/",
     "logo": "/diga-logos/invirto-die-therapie-gegen-angst.png",
     "manufacturer": "Sympatient GmbH",
     "category": "Psyche"
@@ -130,7 +90,7 @@
   {
     "id": "01330",
     "name": "Kaia Rückenschmerzen - Rückentraining für Zuhause",
-    "url": "https://www.kaiahealth.de/rueckenschmerzen/",
+    "url": "https://startkaia.de/bp/sign-up/?/kaia2&",
     "logo": "/diga-logos/kaia-rueckenschmerzen-rueckentraining-fuer-zuhause.png",
     "manufacturer": "kaia health software GmbH",
     "category": "Muskeln, Knochen und Gelenke"
@@ -138,15 +98,15 @@
   {
     "id": "00350",
     "name": "Kalmeda",
-    "url": "https://www.kalmeda.de",
-    "logo": "/diga-logos/kalmeda.png",
+    "url": "https://www.kalmeda.de/freischaltcode",
+    "logo": "/diga-logos/kalmeda.jpg",
     "manufacturer": "Pohl-Boskamp Digital Health GmbH",
     "category": "Ohren"
   },
   {
     "id": "01282",
     "name": "Kranus Edera",
-    "url": "https://www.kranushealth.com",
+    "url": "https://www.kranushealth.com/de/edera/form/therapie-starten",
     "logo": "/diga-logos/kranus-edera.png",
     "manufacturer": "Kranus Health GmbH",
     "category": "Geschlechtsorgane, Nieren und Harnwege"
@@ -154,7 +114,7 @@
   {
     "id": "01644",
     "name": "Kranus Lutera",
-    "url": "https://www.kranushealth.com/de/",
+    "url": "https://www.kranushealth.com/de/lutera/form/therapie-starten",
     "logo": "/diga-logos/kranus-lutera.png",
     "manufacturer": "Kranus Health GmbH",
     "category": "Geschlechtsorgane, Nieren und Harnwege"
@@ -162,23 +122,15 @@
   {
     "id": "02815",
     "name": "Kranus Mictera",
-    "url": "https://www.kranushealth.com/de/therapien/inkontinenz",
-    "logo": "/diga-logos/kranus-mictera.png",
+    "url": "https://www.kranushealth.com/de/mictera/form/therapie-starten",
+    "logo": "/diga-logos/kranus-mictera.jpg",
     "manufacturer": "Kranus Health GmbH",
     "category": "Geschlechtsorgane, Nieren und Harnwege"
   },
   {
-    "id": "00752",
-    "name": "levidex",
-    "url": "https://levidex.de/",
-    "logo": "/diga-logos/levidex.png",
-    "manufacturer": "GAIA AG",
-    "category": "Nervensystem"
-  },
-  {
     "id": "00993",
     "name": "Mawendo",
-    "url": "https://mawendo.com/",
+    "url": "https://www.mawendo.com/rezept-service",
     "logo": "/diga-logos/mawendo.png",
     "manufacturer": "Mawendo GmbH",
     "category": "Muskeln, Knochen und Gelenke"
@@ -186,7 +138,7 @@
   {
     "id": "01496",
     "name": "Meine Tinnitus App - Das digitale Tinnitus Counseling",
-    "url": "https://www.meinetinnitusapp.de",
+    "url": "https://www.meinetinnitusapp.de/rezept-einloesen/",
     "logo": "/diga-logos/meine-tinnitus-app-das-digitale-tinnitus-counseling.png",
     "manufacturer": "BAYOOCARE GmbH",
     "category": "Ohren"
@@ -194,7 +146,7 @@
   {
     "id": "00329",
     "name": "Mindable: Panik & Agoraphobie",
-    "url": "https://www.mindable.health",
+    "url": "https://www.mindable.health/de/panik/diagnose/zugang",
     "logo": "/diga-logos/mindable-panik-agoraphobie.png",
     "manufacturer": "Mindable Health GmbH",
     "category": "Psyche"
@@ -202,7 +154,7 @@
   {
     "id": "01514",
     "name": "Mindable: Soziale Phobie",
-    "url": "https://www.mindable.health/soziale-phobie",
+    "url": "https://www.mindable.health/de/soziale-phobie/diagnose/zugang",
     "logo": "/diga-logos/mindable-soziale-phobie.png",
     "manufacturer": "Mindable Health GmbH",
     "category": "Psyche"
@@ -210,23 +162,15 @@
   {
     "id": "01786",
     "name": "My7steps App",
-    "url": "https://diga.my7steps.org",
-    "logo": "/diga-logos/my7steps-app.png",
+    "url": "https://my7steps.org/de/auf-rezept",
+    "logo": "/diga-logos/my7steps-app.jpg",
     "manufacturer": "My7steps GmbH",
     "category": "Psyche"
   },
   {
-    "id": "01196",
-    "name": "neolexon Aphasie",
-    "url": "https://neolexon.de/patienten/aphasie-app/",
-    "logo": "/diga-logos/neolexon-aphasie.png",
-    "manufacturer": "Limedix GmbH",
-    "category": "Sonstige"
-  },
-  {
     "id": "01113",
     "name": "NeuroNation MED",
-    "url": "https://neuronation-med.de/",
+    "url": "https://www.neuronation.com/",
     "logo": "/diga-logos/neuronation-med.png",
     "manufacturer": "Synaptikon GmbH",
     "category": "Psyche"
@@ -240,25 +184,41 @@
     "category": "Psyche"
   },
   {
+    "id": "01110",
+    "name": "Novego: Depressionen bewältigen",
+    "url": "https://digitalepatientenhilfe.de/rezeptservice/",
+    "logo": "/diga-logos/novego-depressionen-bewaeltigen.jpg",
+    "manufacturer": "IVPNetworks GmbH",
+    "category": "Psyche"
+  },
+  {
     "id": "01820",
     "name": "Novego: Ängste überwinden",
-    "url": "https://www.novego.de/novego-programme/hilfe-bei-aengsten/",
+    "url": "https://digitalepatientenhilfe.de/rezeptservice/",
     "logo": "/diga-logos/novego-aengste-ueberwinden.png",
     "manufacturer": "IVPNetworks GmbH",
     "category": "Psyche"
   },
   {
-    "id": "01110",
-    "name": "Novego: Depressionen bewältigen",
-    "url": "https://www.novego.de",
-    "logo": "/diga-logos/novego-depressionen-bewaeltigen.png",
-    "manufacturer": "IVPNetworks GmbH",
+    "id": "02568",
+    "name": "ORIKO ADHS-Therapie",
+    "url": "",
+    "logo": "/diga-logos/oriko-adhs-therapie.png",
+    "manufacturer": "MiNDNET e-Health Solutions GmbH",
     "category": "Psyche"
+  },
+  {
+    "id": "02789",
+    "name": "Oviva Direkt Bluthochdruck",
+    "url": "https://oviva.com/de/de/rezept-hochladen/",
+    "logo": "/diga-logos/oviva-direkt-bluthochdruck.png",
+    "manufacturer": "Oviva AG (Zweigniederlassung Deutschland)",
+    "category": "Herz und Kreislauf"
   },
   {
     "id": "00872",
     "name": "Oviva Direkt für Adipositas",
-    "url": "https://oviva.com/de/de/direkt/",
+    "url": "https://oviva.com/de/de/rezept-hochladen/",
     "logo": "/diga-logos/oviva-direkt-fuer-adipositas.png",
     "manufacturer": "Oviva AG (Zweigniederlassung Deutschland)",
     "category": "Hormone und Stoffwechsel"
@@ -266,23 +226,15 @@
   {
     "id": "01464",
     "name": "PINK! Coach",
-    "url": "https://www.pink-brustkrebs.de/das-bietet-pink/lp-pink-coach",
+    "url": "https://pink-brustkrebs.de/aktiv-gegen-brustkrebs/pink-coach/#",
     "logo": "/diga-logos/pink-coach.png",
     "manufacturer": "PINK gegen Brustkrebs GmbH",
     "category": "Krebs"
   },
   {
-    "id": "01853",
-    "name": "priovi - digitale Unterstützung der Borderline-Behandlung",
-    "url": "https://priovi.de/",
-    "logo": "/diga-logos/priovi-digitale-unterstuetzung-der-borderline-behandlung.png",
-    "manufacturer": "GAIA AG",
-    "category": "Psyche"
-  },
-  {
     "id": "01823",
     "name": "ProHerz",
-    "url": "https://procarement.com/",
+    "url": "https://procarement.com/patientinnen/hilfe/",
     "logo": "/diga-logos/proherz.png",
     "manufacturer": "ProCarement  GmbH",
     "category": "Herz und Kreislauf"
@@ -290,7 +242,7 @@
   {
     "id": "01830",
     "name": "Selfapys Online-Kurs bei Binge-Eating-Störung",
-    "url": "https://www.selfapy.com/kurse/binge-eating",
+    "url": "https://www.selfapy.com/fragebogen",
     "logo": "/diga-logos/selfapys-online-kurs-bei-binge-eating-stoerung.png",
     "manufacturer": "Selfapy GmbH",
     "category": "Psyche"
@@ -298,7 +250,7 @@
   {
     "id": "01834",
     "name": "Selfapys Online-Kurs bei Bulimia Nervosa",
-    "url": "https://www.selfapy.com/kurse/bulimie",
+    "url": "https://www.selfapy.com/fragebogen",
     "logo": "/diga-logos/selfapys-online-kurs-bei-bulimia-nervosa.png",
     "manufacturer": "Selfapy GmbH",
     "category": "Psyche"
@@ -306,7 +258,7 @@
   {
     "id": "00876",
     "name": "Selfapys Online-Kurs bei Depression",
-    "url": "https://www.selfapy.com/kurse/depression",
+    "url": "https://www.selfapy.com/fragebogen",
     "logo": "/diga-logos/selfapys-online-kurs-bei-depression.png",
     "manufacturer": "Selfapy GmbH",
     "category": "Psyche"
@@ -314,7 +266,7 @@
   {
     "id": "01049",
     "name": "Selfapys Online-Kurs bei Generalisierter Angststörung",
-    "url": "https://www.selfapy.com/kurse/generalisierte-angststoerung",
+    "url": "https://www.selfapy.com/fragebogen",
     "logo": "/diga-logos/selfapys-online-kurs-bei-generalisierter-angststoerung.png",
     "manufacturer": "Selfapy GmbH",
     "category": "Psyche"
@@ -322,47 +274,47 @@
   {
     "id": "01909",
     "name": "Smoke Free - Rauchen aufhören",
-    "url": "https://www.smokefree.de",
+    "url": "https://erfolg.smokefree.de/freiheit-vom-rauchen-fuehlt-sich-toll-an/?",
     "logo": "/diga-logos/smoke-free-rauchen-aufhoeren.png",
     "manufacturer": "Smoke Free 23 GmbH",
     "category": "Psyche"
   },
   {
-    "id": "00508",
-    "name": "somnio",
-    "url": "https://www.somn.io",
-    "logo": "/diga-logos/somnio.png",
-    "manufacturer": "mementor DE GmbH",
-    "category": "Psyche"
-  },
-  {
-    "id": "02097",
-    "name": "somnovia",
-    "url": "https://somnovia.de/",
-    "logo": "/diga-logos/somnovia.png",
-    "manufacturer": "GAIA AG",
-    "category": "Nervensystem"
+    "id": "02286",
+    "name": "Una Health für Diabetes",
+    "url": "https://start.unahealth.de/rezeptservice/de",
+    "logo": "/diga-logos/una-health-fuer-diabetes.png",
+    "manufacturer": "Una Health GmbH",
+    "category": "Hormone und Stoffwechsel"
   },
   {
     "id": "01967",
     "name": "Untire®",
-    "url": "https://untire.app/de/",
+    "url": "",
     "logo": "/diga-logos/untire.png",
-    "manufacturer": "Tired of Cancer B.V. ",
+    "manufacturer": "Tired of Cancer B.V.",
     "category": "Krebs"
   },
   {
-    "id": "00316",
-    "name": "velibra",
-    "url": "https://de.velibra.com/",
-    "logo": "/diga-logos/velibra.png",
-    "manufacturer": "GAIA AG",
-    "category": "Psyche"
+    "id": "02194",
+    "name": "Uroletics",
+    "url": "https://www.uroletics.com/freischaltcode-anfragen/gkv",
+    "logo": "/diga-logos/uroletics.png",
+    "manufacturer": "Rocketlane Medical Ventures GmbH",
+    "category": "Krebs"
+  },
+  {
+    "id": "02858",
+    "name": "Vera-App für Wechseljahresbeschwerden",
+    "url": "",
+    "logo": "/diga-logos/vera-app-fuer-wechseljahresbeschwerden.png",
+    "manufacturer": "Endo Health GmbH",
+    "category": "Geschlechtsorgane, Nieren und Harnwege"
   },
   {
     "id": "00746",
     "name": "Vitadio",
-    "url": "https://vitadio.de",
+    "url": "https://vitadio.de/rezept-service",
     "logo": "/diga-logos/vitadio.png",
     "manufacturer": "Vitadio s.r.o.",
     "category": "Hormone und Stoffwechsel"
@@ -370,15 +322,159 @@
   {
     "id": "00387",
     "name": "Vivira",
-    "url": "https://www.vivira.com",
+    "url": "https://www.vivira.com/rezept-service/",
     "logo": "/diga-logos/vivira.png",
     "manufacturer": "Vivira Health Lab GmbH",
     "category": "Muskeln, Knochen und Gelenke"
   },
   {
+    "id": "02814",
+    "name": "attexis - die digitale Therapie bei ADHS im Erwachsenenalter",
+    "url": "https://de.attexis.com/de-de/rezept",
+    "logo": "/diga-logos/attexis-die-digitale-therapie-bei-adhs-im-erwachsenenalter.png",
+    "manufacturer": "GAIA AG",
+    "category": "Psyche"
+  },
+  {
+    "id": "00998",
+    "name": "companion patella powered by medi - proved by Dt. Kniegesellschaft",
+    "url": "https://www.medi.de/produkte/diga-companion-patella/#rezeptservice",
+    "logo": "/diga-logos/companion-patella-powered-by-medi-proved-by-dt-kniegesellschaft.png",
+    "manufacturer": "PrehApp GmbH",
+    "category": "Verletzungen"
+  },
+  {
+    "id": "02133",
+    "name": "companion® shoulder",
+    "url": "https://www.medi.de/produkte/diga-companion-shoulder/#rezeptservice",
+    "logo": "/diga-logos/companion-shoulder.png",
+    "manufacturer": "PrehApp GmbH",
+    "category": "Muskeln, Knochen und Gelenke"
+  },
+  {
+    "id": "00450",
+    "name": "deprexis",
+    "url": "https://de.deprexis.com/rezept-service/",
+    "logo": "/diga-logos/deprexis.png",
+    "manufacturer": "GAIA AG",
+    "category": "Psyche"
+  },
+  {
+    "id": "02173",
+    "name": "eCovery - Therapie bei Schmerzen im unteren Rücken",
+    "url": "https://ecovery.de/rezeptservice/",
+    "logo": "/diga-logos/ecovery-therapie-bei-schmerzen-im-unteren-ruecken.png",
+    "manufacturer": "eCovery GmbH",
+    "category": "Muskeln, Knochen und Gelenke"
+  },
+  {
+    "id": "01815",
+    "name": "edupression.com®",
+    "url": "https://edupression.com/de/patienten/therapie-sofort-starten/ich-habe-ein-rezept/",
+    "logo": "/diga-logos/edupressioncom.png",
+    "manufacturer": "SOFY GmbH",
+    "category": "Psyche"
+  },
+  {
+    "id": "00419",
+    "name": "elevida",
+    "url": "https://elevida.de/rezept-service/",
+    "logo": "/diga-logos/elevida.png",
+    "manufacturer": "GAIA AG",
+    "category": "Nervensystem"
+  },
+  {
+    "id": "02373",
+    "name": "elona explore – für die mentale Gesundheit",
+    "url": "https://www.elona.health/rezept/auswahl",
+    "logo": "/diga-logos/elona-explore-fuer-die-mentale-gesundheit.png",
+    "manufacturer": "Elona Health GmbH",
+    "category": "Psyche"
+  },
+  {
+    "id": "01254",
+    "name": "elona therapy Depression",
+    "url": "https://www.elona.health/rezept/auswahl",
+    "logo": "/diga-logos/elona-therapy-depression.png",
+    "manufacturer": "Elona Health GmbH",
+    "category": "Psyche"
+  },
+  {
+    "id": "02090",
+    "name": "glucura Diabetestherapie",
+    "url": "https://millionfriends.typeform.com/to/AJw7KBDN?",
+    "logo": "/diga-logos/glucura-diabetestherapie.png",
+    "manufacturer": "Perfood GmbH",
+    "category": "Hormone und Stoffwechsel"
+  },
+  {
+    "id": "02777",
+    "name": "hiToco®: ADHS Elterntraining",
+    "url": "https://hitoco.com/de-de/eltern/rezeptservice",
+    "logo": "/diga-logos/hitoco-adhs-elterntraining.png",
+    "manufacturer": "medigital GmbH",
+    "category": "Psyche"
+  },
+  {
+    "id": "00752",
+    "name": "levidex",
+    "url": "https://levidex.de/rezept-service/",
+    "logo": "/diga-logos/levidex.png",
+    "manufacturer": "GAIA AG",
+    "category": "Nervensystem"
+  },
+  {
+    "id": "02866",
+    "name": "memodio",
+    "url": "https://form.typeform.com/to/qLM01Tml?",
+    "logo": "/diga-logos/memodio.png",
+    "manufacturer": "memodio GmbH",
+    "category": "Psyche"
+  },
+  {
+    "id": "01196",
+    "name": "neolexon Aphasie",
+    "url": "https://neolexon.de/aphasie-app-fuer-patienten/",
+    "logo": "/diga-logos/neolexon-aphasie.jpg",
+    "manufacturer": "Limedix GmbH",
+    "category": "Sonstige"
+  },
+  {
+    "id": "01853",
+    "name": "priovi - digitale Unterstützung der Borderline-Behandlung",
+    "url": "https://priovi.de/rezept-service/",
+    "logo": "/diga-logos/priovi-digitale-unterstuetzung-der-borderline-behandlung.png",
+    "manufacturer": "GAIA AG",
+    "category": "Psyche"
+  },
+  {
+    "id": "00508",
+    "name": "somnio",
+    "url": "https://somn.io/app/verschreibung/",
+    "logo": "/diga-logos/somnio.png",
+    "manufacturer": "mementor DE GmbH",
+    "category": "Psyche"
+  },
+  {
+    "id": "02097",
+    "name": "somnovia",
+    "url": "https://somnovia.de/rezept-service/",
+    "logo": "/diga-logos/somnovia.png",
+    "manufacturer": "GAIA AG",
+    "category": "Nervensystem"
+  },
+  {
+    "id": "00316",
+    "name": "velibra",
+    "url": "https://de.velibra.com/rezept-service/",
+    "logo": "/diga-logos/velibra.png",
+    "manufacturer": "GAIA AG",
+    "category": "Psyche"
+  },
+  {
     "id": "00868",
     "name": "vorvida",
-    "url": "https://vorvida.de/",
+    "url": "https://de.vorvida.com/rezept-service/",
     "logo": "/diga-logos/vorvida.png",
     "manufacturer": "GAIA AG",
     "category": "Psyche"
@@ -386,7 +482,7 @@
   {
     "id": "00294",
     "name": "zanadio",
-    "url": "https://zanadio.de/",
+    "url": "https://start.zanadio.de/anmelden/rezeptservice-intro?return=https%3A%2F%2Fzanadio.de%2F",
     "logo": "/diga-logos/zanadio.png",
     "manufacturer": "Sidekick Health Germany GmbH",
     "category": "Hormone und Stoffwechsel"
